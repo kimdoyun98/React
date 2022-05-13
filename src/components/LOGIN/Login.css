@@ -1,0 +1,38 @@
+
+  .login-page-title {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%,-33%);
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+  }
+  .login_form {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-33%);
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    color: white;
+  }
+  .login-page-button {
+    margin: 30px;
+    padding: 10px 150px;
+    color: white;
+    border-radius: .3rem;
+    color: white;
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+
+  .login-edittext-id{
+    padding: 20px 80px;
+  }
+  .login-edittext-pw{
+    padding: 20px 80px;
+  }

@@ -1,0 +1,13 @@
+.main_page{
+    position: absolute;
+    max-width: 79.9%;
+    max-height: 99%;
+    width: 100%;
+    height: 100%;
+    transform: translate(24.5%, -1%);
+}
+
+.Introduction-script{
+    color: white;
+    text-align: center;
+}

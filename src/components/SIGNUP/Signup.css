@@ -1,0 +1,38 @@
+
+  .signup-page-title {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%,-33%);
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+  }
+  .signup_form {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-33%);
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    color: white;
+  }
+  .signup-page-button {
+    margin: 30px;
+    padding: 10px 150px;
+    color: white;
+    border-radius: .3rem;
+    color: white;
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+
+  .signup-edittext-id{
+    padding: 20px 80px;
+  }
+  .signup-edittext-pw{
+    padding: 20px 80px;
+  }
